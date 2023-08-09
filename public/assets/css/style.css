@@ -38,6 +38,7 @@ color: #932F6D;
 }
 
 .senha-gerada {
+max-width: 100%;
 color: #223843;
 font-weight: bold;
 word-wrap: break-word;
